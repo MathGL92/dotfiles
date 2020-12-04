@@ -49,3 +49,5 @@
 [user]
 	email = mathieu.longe@orange.fr
 	name = Mathieu Longe
+[pull]
+	rebase = false
