@@ -48,3 +48,4 @@ export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bi
 # Ruby stuff
 alias be="bundle exec"
 alias ber="bundle exec rake"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
