@@ -20,15 +20,15 @@
 		".pytest_cache",
 		"__pycache__"
 	],
-	"font_size": 16,
+	"font_size": 19,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Package Control",
 		"Python",
 		"Vintage"
 	],
+	"open_files_in_new_window": false,
 	"remember_open_files": false,
 	"rulers":
 	[

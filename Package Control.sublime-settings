@@ -2,7 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Package Control"
+		"mjml-syntax"
 	],
 	"installed_packages":
 	[
@@ -18,10 +18,13 @@
 		"Git",
 		"Latest Migration",
 		"MagicPython",
+		"MJML-syntax",
+		"mjml-syntax",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-rubocop",
+		"TypeScript"
 	]
 }
