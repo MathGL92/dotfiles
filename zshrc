@@ -44,10 +44,18 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
 
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/Users/mathieulonge/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/Users/mathieulonge/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/Users/mathieulonge/miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/Users/mathieulonge/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
 
-### added by myself
-
-# Ruby stuff
-alias be="bundle exec"
-alias ber="bundle exec rake"
-export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"

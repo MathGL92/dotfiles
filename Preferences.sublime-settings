@@ -20,11 +20,12 @@
 		".pytest_cache",
 		"__pycache__"
 	],
-	"font_size": 19,
+	"font_size": 24,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"mjml-syntax",
 		"Python",
 		"Vintage"
 	],

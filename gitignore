@@ -1,5 +1,5 @@
+.byebug_history
 *.sw[klmnop]
 *tags*
 .DS_Store
-.byebug_history
 /vendor/*

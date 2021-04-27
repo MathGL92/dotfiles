@@ -18,13 +18,14 @@
 		"Git",
 		"Latest Migration",
 		"MagicPython",
-		"MJML-syntax",
 		"mjml-syntax",
+		"MJML-syntax",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-rubocop",
-		"TypeScript"
+		"TypeScript",
+		"Vuejs Complete Package"
 	]
 }
