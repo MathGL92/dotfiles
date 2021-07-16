@@ -11,6 +11,9 @@ plugins=(git gitfast last-working-dir common-aliases sublime zsh-syntax-highligh
 # (macOS-only) Prevent Homebrew from reporting - https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Analytics.md
 export HOMEBREW_NO_ANALYTICS=1
 
+# Load executable files
+export PATH="$HOME/code/MathGL92/dotfiles/bin:$PATH"
+
 # Actually load Oh-My-Zsh
 source "${ZSH}/oh-my-zsh.sh"
 unalias rm # No interactive rm by default (brought by plugins/common-aliases)
